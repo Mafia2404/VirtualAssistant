@@ -81,7 +81,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 Frontend (.env)
 
 VITE_API_BASE_URL=http://localhost:5000
-VITE_ASSISTANT_NAME=JARVIS
+VITE_ASSISTANT_NAME
 Run the application:
 bash
 # From root directory
@@ -89,7 +89,7 @@ npm run dev
 ```
 ### 📂 Project Structure
 ```bash
-jarvis-ai-assistant/
+AssistantAI/
 ├── backend/
 │   ├── controllers/    # AI and auth logic
 │   ├── models/         # User schemas
